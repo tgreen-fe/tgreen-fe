@@ -20,7 +20,7 @@ My dissertation compares three ways of giving a pretrained vision-language-actio
 | [nautibot-eurobot](https://github.com/tgreen-fe/nautibot-eurobot) | Eurobot competition robot: Arduino firmware and SolidWorks CAD | |
 | [spot-mini-robot](https://github.com/tgreen-fe/spot-mini-robot) | 3D-printable quadruped, built on the open-source SpotMicro design | |
 
-Some of the work I'm proudest of has no public code: the vine robot, the Formula E lap-simulation and race-prediction tooling, and a £281 radiation-mapping rover. Those are written up [on the site](https://tgreen-fe.github.io/#projects).
+Some of the work I'm proudest of I am not able to publish: the vine robot, the Formula E lap-simulation and race-prediction tooling, and a radiation-mapping rover. Those are written up [on the site](https://tgreen-fe.github.io/#projects).
 
 ### Elsewhere
 
