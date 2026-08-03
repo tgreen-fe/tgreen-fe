@@ -2,7 +2,7 @@
   <a href="https://tgreen-fe.github.io"><img src="https://tgreen-fe.github.io/assets/og-card.png" alt="Thomas Green: robotics hardware and applied machine learning" width="720"></a>
 </p>
 
-I'm a robotics engineer. At the moment that means an MSc in Robotics at the University of Bristol alongside part-time work as an AI/Data Engineer at the FIA Formula E World Championship, after two years at Liberty Global prototyping a patent-pending soft vine robot that installs fibre-optic cable through buried ducting.
+I'm a robotics engineer. At the moment that means an MSc in Robotics at the University of Bristol alongside part-time work as an AI/Data Engineer at the FIA Formula E World Championship, after two years at Liberty Global in automation and prototyping a patent-pending soft vine robot that installs fibre-optic cable through buried ducting.
 
 The full write-ups live on my portfolio, with results, photos and video: **[tgreen-fe.github.io](https://tgreen-fe.github.io)**
 
