@@ -2,7 +2,7 @@
   <a href="https://tgreen-fe.github.io"><img src="https://tgreen-fe.github.io/assets/og-card.png" alt="Thomas Green: robotics hardware and applied machine learning" width="720"></a>
 </p>
 
-I'm a robotics engineer based in Vancouver from January 2027. I've written several technical reports and papers, most recently on incorporating tactile feedback into vision-language-action models. I'm currently an AI and Data Engineer at Formula E, building race telemetry pipelines, live prediction models and simulation software. Before that I spent two years on a range of technology innovation placements in the telecommunications industry, in Zurich and London. The project I'm proudest of from that time is a soft vine robot that installs fibre-optic cable through buried duct.
+I'm a robotics engineer based in Vancouver from January 2027. I've written several technical reports and papers, most recently on incorporating tactile feedback into vision-language-action models. I'm currently an AI and Data Engineer at Formula E, building race telemetry pipelines, live prediction models and simulation software. Prior to this I spent two years working in technology innovation in the telecommunications industry in Zurich and London, culminating in a headline project creating a vine robot that could install fibre-optic cable through buried duct.
 
 Full write-ups with results, photos and video: **[tgreen-fe.github.io](https://tgreen-fe.github.io)**
 
